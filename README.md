@@ -1,1 +1,1 @@
-### Example API using FAstAPI
+### Example API using FastAPI
